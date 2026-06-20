@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Sahil&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Backend%20Software%20Engineer%20%7C%20System%20Design&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Sahil&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20System%20Design&descAlignY=58&descSize=16" width="100%"/>
 
-### `⚡ Engineering Scalable, Fault-Tolerant Backend Systems`
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Engineering+Scalable%2C+Fault-Tolerant+Backend+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+gRPC+%E2%80%A2+Redis;Saga+%E2%80%A2+CQRS+%E2%80%A2+Sharding+%E2%80%A2+Distributed+Systems;Open+to+Backend+Engineer+%2F+SDE+Roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ECC71?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/FOCUS-BACKEND%20%26%20DISTRIBUTED%20SYSTEMS-58A6FF?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/LOCATION-INDIA-FF6B6B?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -35,7 +43,9 @@ My work centers on **microservices architecture**, **event-driven communication*
 
 Outside of core backend work, I maintain a consistent **DSA practice routine** (291+ LeetCode problems solved) and am actively exploring **OpenTelemetry**, **observability**, and the backend side of **AI engineering systems**.
 
-Currently seeking **Backend Engineer / SDE** roles — full-time and internship.
+```diff
++ Currently seeking Backend Engineer / SDE roles — full-time and internship.
+```
 
 <br/>
 
@@ -77,10 +87,12 @@ Currently seeking **Backend Engineer / SDE** roles — full-time and internship.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdsahil-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahil-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdsahil-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahil-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&border_radius=10" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsahil-786&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsahil-786&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsahil-786&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF" width="100%"/>
 
 <img src="https://leetcard.jacoblin.cool/sahil9955555?theme=dark&font=Fira%20Code&extens=heatmap" />
 
@@ -88,11 +100,24 @@ Currently seeking **Backend Engineer / SDE** roles — full-time and internship.
 
 <br/>
 
+## 🧭 Current Focus
+
+```text
+2026 Roadmap
+├── Distributed Systems    → Consistency models, replication, consensus
+├── System Design          → Scalable, fault-tolerant backend architecture
+├── OpenTelemetry          → Observability across microservices
+├── AI Engineering         → Backend infra for AI-driven systems
+└── Backend Architecture   → Event-driven design at production scale
+```
+
+<br/>
+
 ## 🤝 Establish Connection
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-808080?style=for-the-badge)](https://github.com/mdsahil-786)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsahil-786)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadsahildev/)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahil9955555/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil9955555@gmail.com)
@@ -112,4 +137,3 @@ Currently seeking **Backend Engineer / SDE** roles — full-time and internship.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </div>
-
